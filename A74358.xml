@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for the better propagation and preaching of the Gospel in Wales, and redress of some grievances. Die Veneris, 22⁰ Februarii, 1649. Ordered by the Parliament, that this Act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74358</idno>
+            <idno type="STC">Thomason E1060_80</idno>
+            <idno type="STC">ESTC R208808</idno>
+            <idno type="EEBO-CITATION">99867730</idno>
+            <idno type="PROQUEST">99867730</idno>
+            <idno type="VID">120053</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74358)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 120053)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 157:E1060[80])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for the better propagation and preaching of the Gospel in Wales, and redress of some grievances. Die Veneris, 22⁰ Februarii, 1649. Ordered by the Parliament, that this Act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>England and Wales.</author>
+                  <author>England and Wales. Parliament. aut</author>
+               </titleStmt>
+               <extent>p. [2], 697-706 [i.e. 12] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Edward Husband and John Field, printers to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649. [i.e. 1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: 6M⁴ 6N² . Also issued as part of a through-paged set with a table for the entire set added.</note>
+                  <note>On 6M2: last word of first line of text: "England"; first word of line below initial: "Enacted"; last word of last full line: "John".</note>
+                  <note>Identified on UMI microfilm (Early English books, 1641-1700) reel 1758 as Wing (2nd ed.) E1098.</note>
+                  <note>Ornament on t.p.; initial letter; some text in black letter.</note>
+                  <note>Reproductions of the originals in the British Library (Thomason Tracts), and the Cambridge University Library (Early English books, 1641-1700).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wales --  Religion --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:120053:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 51 -->
+            <p>AN ACT FOR The better Propagation and Preaching of the GOSPEL IN WALES, And redreſs of ſome Grievances.</p>
+            <figure>
+               <figDesc>seal of the Commonwealth</figDesc>
+            </figure>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Veneris, 22<hi rend="sup">o</hi> Februarii, 1649.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Parliament, That this Act be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <dateline>
+                              <date>Hen: Scobell, Cleric. Parliamenti.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London:</hi> Printed by <hi>Edward Huſband</hi> and <hi>John Field,</hi> Printers to the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:120053:2"/>
+            <!-- PDF PAGE 52 -->
+            <pb n="697" facs="tcp:120053:2"/>
+            <!-- PDF PAGE 52 -->
+            <head>AN ACT FOR The better Propagation and Preaching of the GOSPEL In WALES, and redreſs of ſome Grievances.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Parliament of <hi>England</hi> taking into their ſerious conſideration the great Duty and Truſt that lies on them to uſe all lawful ways and means for the propagation of the Go<g ref="char:EOLhyphen"/>ſpel of Ieſus Chriſt in this Commonwealth, in order thereunto, Do En<g ref="char:EOLhyphen"/>act and Ordain, and be it Enacted and Ordained by this preſent Parlia<g ref="char:EOLhyphen"/>ment, and by the Authority thereof, That Col: <hi>Thomas Harriſon,</hi> Col: <hi>Philip Jones,</hi> Col: <hi>John Jones,</hi> Sir <hi>John Trevor</hi> Knight, <hi>Henry Herbert</hi>
+               <abbr>Eſq</abbr>
+               <hi>William Herbert, William Packer, William Blethin, Chriſtopher Catchmay, Reece Williams, John Nicholas, Edward Herbert, Robert Jones, Buſſey Manſel, Edward Prichard, John Price, Rowland Dawkins, William Bote<g ref="char:EOLhyphen"/>ler, Edward Stradling, John Herbert, Richard Jones, Jenkin Frainlyn, John James, Wroth Rogers, John Her<g ref="char:EOLhyphen"/>ring, Stephen Winthrop,</hi>
+               <abbr>Eſqs</abbr> Sir <hi>Eraſmus Philips, Sampſon Lort, Henry Williams, Silvanus Taylor, Richard King, John Williams, John Dancy, Thomas Watkins, James Philips, John Lewis, William Barbar,</hi>
+               <abbr>Eſqs</abbr>
+               <hi>John
+<pb n="698" facs="tcp:120053:3"/>
+                  <!-- PDF PAGE 53 -->Daniel, John Bowen</hi> Gent. <hi>John Puleſton</hi> one of the Iuſtices of the Court of Common Pleas, <hi>Hum<g ref="char:EOLhyphen"/>phrey Mackworth, William Littleton, Robert Ducken<g ref="char:EOLhyphen"/>field, Thomas Baker, Hugh Price, Evan Lloyd, Richard Price, Robert Griffith, Edward Owens, George Twiſleton, John Carter, Thomas Maſon, Lighton Owens, Rice Vaughan, Thomas Ball, Hugh Courtney, Edward Taylor, Roger Soutley,</hi>
+               <abbr>Eſqs</abbr>
+               <hi>Daniel Lloyd, David Moris, Wil<g ref="char:EOLhyphen"/>liam Wynne,</hi> Gentlemen; <hi>Thomas Swift</hi>
+               <abbr>Eſq</abbr>
+               <hi>Hugh Prichard</hi> Gent. <hi>John Sadler, John Peck, Luke Lloyd, Andrew Ellis, Ralph Crechley,</hi>
+               <abbr>Eſqs</abbr>
+               <hi>Lewis Price</hi> of <hi>Llannoonog, Henry Williams, John Brown,</hi> Gent. are hereby conſtituted and appointed to be Commiſ<g ref="char:EOLhyphen"/>ſioners in the Counties of <hi>Montgomery, Denbigh, Flint, Carnarvan, Merioneth, Angleſey, Monmouth, Gla<g ref="char:EOLhyphen"/>morgan, Pembroke, Carmarthen, Cardigan, Brecknock</hi> and <hi>Radnor,</hi> and every of them, to put in execution the ſeveral powers and authorities herein here<g ref="char:EOLhyphen"/>after mentioned &amp; directed (that is to ſay) That they the ſaid Commiſſioners or any five or more of them, ſhall have full power and authority, and are hereby enabled &amp; authorized to receive all articles or Charges which ſhall be exhibited againſt any Parſon, Vicar, Curate, Schoolmaſter, or any other now having, or that ſhall have any Eccle<g ref="char:EOLhyphen"/>ſiaſtical benefit or promotion within the ſaid coun<g ref="char:EOLhyphen"/>ties or any of them, for any Delinquency, Scan<g ref="char:EOLhyphen"/>dal, Malignancy, or <hi>non</hi>-Reſidency; and upon ſuch Articles ſo exhibited, to grant out Warrants in writing under the Hands and Seals of the ſaid Commiſsioners, or any five or more of them, to be directed to the party againſt whom ſuch Arti<g ref="char:EOLhyphen"/>cles ſhall be exhibited, requiring his appearance before ſuch Commiſsioners, at a certain day and place in the ſaid Warrant mentioned, to anſwer the ſaid Charge or Articles reſpectively; and af<g ref="char:EOLhyphen"/>ter notice of the ſaid Warrant perſonally made
+<pb n="699" facs="tcp:120053:3"/>
+               <!-- PDF PAGE 53 -->or given to the ſaid party Articled againſt, or left at his dwelling Houſe or ordinary place of abode, and that notice proved by Oath to be made by the ſpace of ten days before the day of appearance in the ſaid Warrant mentioned (no juſt Cauſe being made and proved to excuſe the not appearing) and likewiſe after anſwer made by ſuch as ſhall ap<g ref="char:EOLhyphen"/>pear according to ſummons, Then the ſaid Com<g ref="char:EOLhyphen"/>miſsioners, or any five or more of them, are here<g ref="char:EOLhyphen"/>by enabled and authorized to proceed to examina<g ref="char:EOLhyphen"/>tion of witneſſes upon Oath; the ſaid Examina<g ref="char:EOLhyphen"/>tions and Depoſitions of ſuch Witneſſes to be put in writing, as well on the behalf of the Com<g ref="char:EOLhyphen"/>monwealth to prove ſuch Charges and Articles, as on the behalf of the parties articled againſt to make good their Anſwers; which Oathes the ſaid Commiſsioners, or any two or more of them, have hereby power to adminiſter: And after due examination and proof made by confeſsion of the party complained of, or by the Oath of two cre<g ref="char:EOLhyphen"/>dible Witneſſes, actually to amove, diſcharge and eject all ſuch Miniſters and other perſons from their reſpective Cures, Benefices, Places and Charges, as they the ſaid Commiſsioners, or any five or more of them, upon ſuch hearing ſhall adjudge to be guilty of any the Crimes aforeſaid, in the ſaid Articles contained and compriſed; and after ſuch Iudgement given, in caſe any perſon ſhall finde himſelf agrieved with ſuch Iudge<g ref="char:EOLhyphen"/>ment ſo given, Then it ſhal and may be lawful, to and for any twelve or more of the ſaid Commiſsi<g ref="char:EOLhyphen"/>oners, upon Petition preferred to them by the party grieved, to review, examine and reverſe the ſame, if they or the greater part of them ſee juſt cauſe ſo to do: And if notwithſtanding the ſaid ejected perſon ſhall not finde relief within ſix Weeks after his Petition ſo preferred, Then the
+<pb n="700" facs="tcp:120053:4"/>
+               <!-- PDF PAGE 54 -->ſaid Commiſsioners, or any five or more of them, ſhall at the requeſt of the parties agrieved reſpe<g ref="char:EOLhyphen"/>ctively, certifie the reſpective Proceedings and Proofs in ſuch caſes reſpectively, to the Commit<g ref="char:EOLhyphen"/>tee of Parliament for Plundred Miniſters; who are hereby authorized, upon the return of ſuch Certificates, and view of ſuch Proceedings and Proofs, without further examination of Wit<g ref="char:EOLhyphen"/>neſſes in ſuch caſes, to examine the Grounds of the ſaid reſpective Iudgements appealed from, and to affirm or revoke the ſame, as they ſhall finde it moſt agreeable to Iuſtice, and the tenor of this Act. And be it further Enacted and De<g ref="char:EOLhyphen"/>clared, That the ſaid Commiſsioners or any five or more of them, have hereby power and au<g ref="char:EOLhyphen"/>thority to allow the Wife and Children of ſuch Miniſter or Miniſters ſo ejected and amoved, for their maintenance, a proportion not exceeding a fifth part of the Living, Parſonage, Benefice, Vicarage, Charge or other place, out of which the ſaid Miniſters ſhall be reſpectively removed (all Pariſh Charges, Publique Taxes, and other Duties being firſt deducted out of the whole.) And be it further Enacted by the Authority a<g ref="char:EOLhyphen"/>foreſaid, That if any Parſon or Vicar holdeth or enjoyeth, or which ſhall hold or enjoy plurali<g ref="char:EOLhyphen"/>ty of Benefices or Eccleſiaſtical Promotions (one or more of which being within the Counties a<g ref="char:EOLhyphen"/>foreſaid) and upon a Warrant directed to him under the Hands of the ſaid Commiſsioners or any five of them, requiring him at a certain day and place in the ſaid Warrant mentioned, to make choice and elect which of the ſaid Benefi<g ref="char:EOLhyphen"/>ces and Eccleſiaſtical Promotions he deſires to hold; and upon notice of the ſaid Warrant, ſhall not within forty days after the ſaid notice, make his Election, teſtified under his Hand before five
+<pb n="701" facs="tcp:120053:4"/>
+               <!-- PDF PAGE 54 -->or more of the ſaid Commiſſioners, which of the ſaid Benefices or Promotions he deſires to hold, then from and after ſuch default (no juſt cauſe being proved to excuſe the ſame) all his right, title or intereſt in and to all ſuch Benefices and Promotions to ceaſe, determine and be ut<g ref="char:EOLhyphen"/>terly void. And to the end that godly and painful men, of able gifts and knowledge for the work of the Miniſtery, and of approved converſation for Piety, may be imployed to preach the Goſpel in the counties aforeſaid (which heretofore abound<g ref="char:EOLhyphen"/>ed in Ignorance and Prophaneneſs) And that fit perſons of approved Piety and Learning, may have encouragement to employ them<g ref="char:EOLhyphen"/>ſelves in the education of Children in Piety and good literature, Be it Enacted by the Authority aforeſaid, That the ſaid Commiſſioners, or any five or more of them, be and are authorized and enabled to grant Certificates by way of appro<g ref="char:EOLhyphen"/>bation to ſuch perſons as ſhall be recommended and approved of by <hi>Henry VValter, VValter Cra<g ref="char:EOLhyphen"/>dock, Richard Simonds, Roger Charnock, Jenkin Lloid, Morris Bidwel, David VValter, VVilliam Seaborn, Ed<g ref="char:EOLhyphen"/>mond Ellis, Jenkin Jones, George Robinſon, Richard Powel, Robert Powel, Thomas Ewen, John Miles, Oli<g ref="char:EOLhyphen"/>ver Thomas,</hi> Doctor <hi>John Ellis, Ambroſe Moſton, Stephen Lewis, Morgan Lloid, VVilliam Jones, Richard Edwards, Vavoſor Powel, Richard Swain, Rowland Never,</hi> Miniſters of the Goſpel, or any five or more of them, for the preaching of the Goſpel in the ſaid Counties, as well in ſetled Congre<g ref="char:EOLhyphen"/>gations and Parochial Charges, as in an Itinerary courſe, as the ſaid Commiſsioners (by the advice of ſuch the ſaid Miniſters as ſhall re<g ref="char:EOLhyphen"/>commend and approve of the ſaid perſons re<g ref="char:EOLhyphen"/>ſpectively) ſhall adjudge to be moſt for the ad<g ref="char:EOLhyphen"/>vancement of the Goſpel, or for the keeping of
+<pb n="702" facs="tcp:120053:5"/>
+               <!-- PDF PAGE 55 -->Schools, and education of Children: And to the end that a fitting maintenance may be pro<g ref="char:EOLhyphen"/>vided for ſuch perſons as ſhall be ſo recommend<g ref="char:EOLhyphen"/>ed and approved of, as alſo for ſuch others ap<g ref="char:EOLhyphen"/>provedly godly and painful Miniſters now re<g ref="char:EOLhyphen"/>ſiding within the ſaid Counties, for whoſe ſup<g ref="char:EOLhyphen"/>port and maintenance there is little or no ſet<g ref="char:EOLhyphen"/>tlement made or provided; Be it therefore En<g ref="char:EOLhyphen"/>acted and Ordained by the Authority aforeſaid, That in order to the ſaid maintenance, and in the regulating, ordering and diſpoſal thereof, they the ſaid Commiſsioners, or any twelve or more of them, are hereby authorized and ena<g ref="char:EOLhyphen"/>bled by themſelves, or others deriving authority from them, to receive and diſpoſe of all and ſin<g ref="char:EOLhyphen"/>gular the Rents, Iſſues and Profits of all and every the Rectories, Vicarages, Donatives, <hi>ſine Cura's,</hi> Portion of Tenths, and other Ec<g ref="char:EOLhyphen"/>cleſiaſtical Livings, which now are, or hereafter ſhall be in the diſpoſing of the Parliament, or any other deriving Authority from them; as alſo to receive and diſpoſe of the Rents, Iſſues and Profits of all Impropriations and Gleab-lands within the ſaid Counties, which now are, or hereafter ſhall be under Sequeſtration, or in the diſpoſal of the Parliament, by vertue of any former Statute, or any Act or Ordinance of this preſent Parliament. And be it further Enacted by the Authority aforeſaid, That the ſaid Com<g ref="char:EOLhyphen"/>miſsioners, or any twelve or more of them, ſhall and may out of the ſaid Rents, Iſſues and Pro<g ref="char:EOLhyphen"/>fits of the ſaid Rectories, Vicarages, Dona<g ref="char:EOLhyphen"/>tives, <hi>ſine Cura's,</hi> Portion of Tenths, and other Eccleſiaſtical Promotions; as alſo out of the Rents, Iſſues and Profits of the ſaid Impro<g ref="char:EOLhyphen"/>priations and Gleab-lands, order and appoint a conſtant yearly maintenance for ſuch perſons
+<pb n="703" facs="tcp:120053:5"/>
+               <!-- PDF PAGE 55 -->as ſhall be recommended and approved of as a<g ref="char:EOLhyphen"/>foreſaid, for the work of the Miniſtery, or the education of Children; as alſo for ſuch other Mi<g ref="char:EOLhyphen"/>niſters as aforeſaid, now reſiding within the ſaid Counties; provided that the yearly maintenance of a Miniſter do not exceed One hundred pounds, and the yearly maintenance of a School-maſter exceed not Forty pounds; and that godly Mini<g ref="char:EOLhyphen"/>ſters (who have or ſhall have Wife or Children, may not too much be taken off from their duties in the Miniſtery, with the care and conſideration of maintenance for their Wives and Children af<g ref="char:EOLhyphen"/>ter their deceaſe, but that ſome care thereof may be had by others, whereby a greater encourage<g ref="char:EOLhyphen"/>ment may be given to them to ſet themſelves the cloſer to the work of the ſaid Miniſtery; Be it Enacted by the Authority aforeſaid, That the ſaid Commiſsioners, or any twelve or more of them, are hereby enabled and authorized to make ſuch yearly allowance to the Wife and Children of ſuch godly Miniſter after his deceaſe, as to the ſaid Commiſsioners or any twelve of them ſhall ſeem reaſonable, for the neceſſary ſupport and maintenance of the ſaid Wife or Children, or any of them; Provided always, That ſuch allow<g ref="char:EOLhyphen"/>ance ſo to be made to ſuch Wife and Children, do not exceed the yearly ſum of thirty pounds: And if any perſon or perſons being Tenant or Occu<g ref="char:EOLhyphen"/>pier of any Lands, Tenements or Heredita<g ref="char:EOLhyphen"/>ments, lyable and ſubject to the payment of any Tenths or other Duties, in right payable or be<g ref="char:EOLhyphen"/>longing to any Parſonage, Vicarage, or any the aboveſaid Eccleſiaſtical Promotions, ſhall re<g ref="char:EOLhyphen"/>fuſe payment thereof, Then the ſaid Commiſsi<g ref="char:EOLhyphen"/>oners or any two or more of them, are hereby authorized and enabled to put in execution a<g ref="char:EOLhyphen"/>gainſt every perſon and perſons ſo refuſing, the
+<pb n="704" facs="tcp:120053:6"/>
+               <!-- PDF PAGE 56 -->powers and authorities veſted and ſetled by this preſent Parliament in the Iuſtices of the Peace, for the relief of Miniſters from whom ſuch Tenths and Duties are detained and ſubſtract<g ref="char:EOLhyphen"/>ed. And be it further Enacted by the Authori<g ref="char:EOLhyphen"/>ty aforeſaid, That the ſaid Commiſſioners or any twelve or more of them, out of the ſaid Tenths, Rents and Profits by them receiveable by force of this Act, ſhall and may allow ſuch moderate Salary or Wages to ſuch perſon or perſons who ſhall be imployed in the receiving, keeping and diſpoſal thereof, or any part thereof, as they ſhall conceive to be neceſſary and reaſon<g ref="char:EOLhyphen"/>able. And be it further Enacted by the Authority aforeſaid, That all and every perſon and perſons qualified and approved of as above ſaid, for the preaching of the Goſpel as aforeſaid, who ſhall be veſted and ſetled by the ſaid Commiſsioners or any twelve or more of them, in any Rectory, Vicarage or Parochial Charge, which the ſaid Commiſsioners or any twelve or more of them have hereby power to do, ſhall be deemed and adjudged to be ſeized of the ſame, as fully and amply, to all intents and purpoſes, as if ſuch perſon and perſons were preſented, inſtituted and inducted to and in the ſame, according to for<g ref="char:EOLhyphen"/>mer Laws in ſuch caſes uſed and provided. And whereas the remoteneſs of the ſaid Counties from the Courts of Iuſtice at <hi>Weſtminſter,</hi> occa<g ref="char:EOLhyphen"/>ſioneth many acts of high Miſdemeanors, Op<g ref="char:EOLhyphen"/>preſsion and Injury to be committed there, which often-times eſcape unpuniſhed, and the parties agrieved thereby, for want of means to ſeek relief by due courſe of Law, left remedileſs; To the end therefore that ſuch Miſdemeanors, Oppreſsions and Injuries may the better be enquired after, and the parties grieved thereby,
+<pb n="705" facs="tcp:120053:6"/>
+               <!-- PDF PAGE 56 -->without much expence of moneys or loſs of time, may be in ſome way of relief, Be it En<g ref="char:EOLhyphen"/>acted by the Authority aforeſaid, That the ſaid Commiſsioners or any five or more of them, ſhall have, and hereby have full Power and Au<g ref="char:EOLhyphen"/>thority to receive all Complaints which ſhall be brought before them, of any ſuch Miſde<g ref="char:EOLhyphen"/>meanors, Oppreſsion or Injury, committed by any perſon or perſons within the ſaid Counties or any of them; and by Warrant directed to the party complained of, under the Hands and Seals of the ſaid Commiſsioners or any five or more of them, to appear before them at a cer<g ref="char:EOLhyphen"/>tain day and place in the ſaid Warrant mention<g ref="char:EOLhyphen"/>ed, requiring an Anſwer to the ſaid Com<g ref="char:EOLhyphen"/>plaints; and after anſwer made, then with the conſent of both parties, teſtifie under their Hands and Seals, to proceed to hear and deter<g ref="char:EOLhyphen"/>mine the ſame. And whereas ſufferings of that nature generally fall upon perſons well-affected to the Parliament, and ſuch as have acted in and for their ſervice; which ſaid perſons are not of ability to travel to <hi>London,</hi> to be relieved by the Committee of Parliament, commonly called <hi>The Committee of Indempnity,</hi> Be it therefore En<g ref="char:EOLhyphen"/>acted and Ordained by the Authority aforeſaid, That the ſaid Commiſsioners or any five or more of them, ſhall be, and are hereby made and conſtituted a Committee of Indempnity, to all intents and purpoſes, within the Coun<g ref="char:EOLhyphen"/>ties aforeſaid, for the hearing and determi<g ref="char:EOLhyphen"/>ning of all matters and things properly relieve<g ref="char:EOLhyphen"/>able and determinable by the ſaid Committee of Indempnity. Provided always, That if any perſon or perſons ſhall finde him or them<g ref="char:EOLhyphen"/>ſelves agrieved at the proceedings of the ſaid Commiſsioners, acting as a Committee of In<g ref="char:EOLhyphen"/>dempnity,
+<pb n="706" facs="tcp:120053:7"/>
+               <!-- PDF PAGE 57 -->then the ſaid perſon or perſons ſo agrieved, ſhall and may proſecute his and their Petition or Appeal for relief, in ſuch maner and form as in and by this Act is preſcribed in the caſes of ejected Miniſters, and bring the ſame to a final determination, before the ſaid Com<g ref="char:EOLhyphen"/>mittee of Indempnity ſitting at <hi>Weſtminſter;</hi> which ſaid Committee are hereby authorized to hear and determine the ſame, as they ſhall ſee juſt cauſe. And be it further Enacted, That all Power and Authority formerly veſted in any Committee within the ſaid Counties or any of them, for the placing of Miniſters in Eccleſiaſti<g ref="char:EOLhyphen"/>cal Livings or Promotions, be from henceforth determined: And that no perſon or perſons ſhall be from henceforth veſted and ſetled in any Rectory, Vicarage or Eccleſiaſtical Promotion within any of the ſaid Counties, unleſs ſuch perſon or perſons ſo to be veſted or ſetled, be re<g ref="char:EOLhyphen"/>commended and approved of for the work of the Miniſtery, according to the tenor and true mean<g ref="char:EOLhyphen"/>ing of this Act: And that this Act ſhall con<g ref="char:EOLhyphen"/>tinue and be in force for the ſpace of Three years, from the Five and twentieth day of <hi>March,</hi> One thouſand ſix hundred and fifty, and no longer.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Die Veneris, 22 Februarii, 1649.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Parliament, That this Act be forthwith printed and publiſhed.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
